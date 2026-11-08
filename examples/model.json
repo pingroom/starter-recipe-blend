@@ -1,0 +1,31 @@
+{
+  "blendId": "paper-mix",
+  "title": "Recycled-paper blend",
+  "context": "Harmless dry-paper craft planning; no mixing is performed.",
+  "partDefinition": "one 10 g dry-paper portion",
+  "constituent": "recycled fibre mass fraction",
+  "costUnit": "practice credits",
+  "totalParts": 6,
+  "targetMinPermille": 450,
+  "targetMaxPermille": 550,
+  "ingredients": [
+    {
+      "id": "plain",
+      "label": "Plain paper stock",
+      "maxParts": 6,
+      "costPerPart": 2
+    },
+    {
+      "id": "recycled",
+      "label": "Recycled paper stock",
+      "maxParts": 4,
+      "costPerPart": 3
+    },
+    {
+      "id": "scrap",
+      "label": "Sorted paper scraps",
+      "maxParts": 2,
+      "costPerPart": 1
+    }
+  ]
+}
